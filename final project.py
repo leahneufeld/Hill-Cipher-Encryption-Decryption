@@ -1,5 +1,4 @@
 #Leah Neufeld
-#8176778
 #@brocku.ca
 
 import numpy as np
